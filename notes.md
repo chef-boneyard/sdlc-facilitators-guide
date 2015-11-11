@@ -101,22 +101,25 @@ We build software for our users - we do what is right for them
 We work together to make better, faster decisions, and we learn from our mistakes
 We continuously develop, build, test, and deploy our software
 Form cross functional team; collaborate with each other; have a high degree of internal alignment; empower each other to get the work done.
+
 Feature teams are comprised of a Product Engineer, Lead Engineer, Product Designer, Software Engineers. Whole team collaborates on Epics and Features.
-Product Engineer - responsible for building a thing customers need, producing Epics and Features
-Lead Engineer - responsible for shipping and architectural supervision (DW: advice, support, mentoring?)
-Product Designer - design how customers interact with the product
-Software Engineer - responsible for [design, creation, testing] quality of results
++ Product Engineer - responsible for building a thing customers need, producing Epics and Features
++ Lead Engineer - responsible for shipping and architectural supervision (DW: advice, support, mentoring?)
++ Product Designer - design how customers interact with the product
++ Software Engineer - responsible for [design, creation, testing] quality of results
 How does a group become a team? What does starting look like?
+
 Charter/Mission
 Working Agreement/ Definition of Done
 Team Name
 Ceremonies
 Team size
 Roles
-Product Engineer - responsible for building a thing customers need, producing Epics and Features
-Lead Engineer - responsible for shipping and architectural supervision (DW: advice, support, mentoring?)
-Product Designer - design how customers interact with the product
-Software Engineer - responsible for [design, creation, testing] quality of results
++ Product Engineer - responsible for building a thing customers need, producing Epics and Features
++ Lead Engineer - responsible for shipping and architectural supervision (DW: advice, support, mentoring?)
++ Product Designer - design how customers interact with the product
++ Software Engineer - responsible for [design, creation, testing] quality of results
+
 Tools for reaching agreements and dealing with conflict
 Disagree and commit - Fist of Five
 http://freechild.org/Firestarter/Fist2Five.htm
