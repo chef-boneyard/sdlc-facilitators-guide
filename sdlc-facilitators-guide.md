@@ -13,8 +13,8 @@ We create an agenda separately from this file as it changes with every session (
 5 kinds of slides... Structure, Content, Activity, Concepts, Tools --> Each have a common layout and structure.
 Talking points are now visible on the slides.
 
-![](pics/paint1.JPG)
-# [fit] DevOps Acceleration Workshop
+![](pics/wall-art-modern.jpg)
+# [fit] SDLC Facilitators Workshop
 
 ---
 
@@ -24,7 +24,6 @@ Talking points are now visible on the slides.
 David Wylie
 VP Worldwide Awesome - Solutions IQ
 @twitter / email
-
 
 Jeff Hackert
 Director Learning and development - CHEF
