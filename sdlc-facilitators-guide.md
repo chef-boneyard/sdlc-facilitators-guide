@@ -26,7 +26,75 @@ VP Worldwide Awesome - Solutions IQ
 @twitter / email
 
 Jeff Hackert
-Director Learning and development - CHEF
+Director, Learning and development - CHEF
 @jchackert / jhackert@chef.io / spacemonkeypants (LoL)
+
+---
+
+## Values, Principles, Practices
+
+^ lead with an exercise: What principles do you see at work in your teams? How do they support what your team do?
+
+---
+
+## Welcome
+
+---
+
+## What will we learn?
+
++ Chef Engineering Values, Principles, Practices
++ Agile and XP (just enough to be dangerous)
++ Our SDLC (how it works, how to run it, how to test, how to intervene)
++ Ceremony facilitation
+
+^ what are we getting up to today?
+
+---
+
+## Agile, A brief history
+
+---
+
+## Why an SDLC?
+
+---
+
+ELSA (how to create org change)
+
+---
+
+## Our relationship to change
+
+---
+
+## 2 product Principle
+
+^ we are continuously delivering 2 pieces of value, customer value and kaizen improvements
+
+---
+
+## IOTA (How to think about thinking about process and product)
+
+---
+
+## SDLC Epics
+
+---
+
+## Stories
+
+---
+
+## Chores, Bugs, ...?
+
+---
+
+^ The world that is being built…’
+What does an architect have to say to software engineers, thought workers, leaders? I would ask you to think of your work contexts as the structures or ‘centers’  we create and in which our teams work and learn.  
+Sometimes going a little abstract can be a helpful exercise.  Are the centers we create more living or less living?
+
+Alexander argues that the living structure is at once both personal and structural. Technology means ​​_the knowledge of making_​​ -- that is, how to create structures in the world that help us do the things that we want and need to do to thrive as human beings.
+To that point, here are my two favorite quotes from the video, linked together: ​​*"It is conceivable to imagine a future in which this problem of generating the living structure in the world is something that you would explicitly recognize as part of your responsibility…I do think you are capable of that and I don’t think anyone else is going to do this job.”*​​ 
 
 ---
