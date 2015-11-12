@@ -1,31 +1,31 @@
 # Principles
 [Agile Principles](http://agilemanifesto.org/principles.html)
 
-Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
 
-Welcome changing requirements, even late in development.
 
-Agile processes harness change for the customer's competitive advantage.
+1. Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
 
-Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.
-
-Business people and developers must work together daily throughout the project.
-
-Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.
-
-The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.
-
-Working software is the primary measure of progress.
-
-Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.
-
-Continuous attention to technical excellence and good design enhances agility.
-
-Simplicity--the art of maximizing the amount of work not done--is essential.
-
-The best architectures, requirements, and designs emerge from self-organizing teams.
-
-At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
+1. Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.
+ 
+1. Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.
+ 
+1. Business people and developers must work together daily throughout the project.
+ 
+1. Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.
+ 
+1. The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.
+ 
+1. Working software is the primary measure of progress.
+ 
+1. Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.
+ 
+1. Continuous attention to technical excellence and good design enhances agility.
+ 
+1. Simplicity--the art of maximizing the amount of work not done--is essential.
+ 
+1. The best architectures, requirements, and designs emerge from self-organizing teams.
+ 
+1. At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
 
 [XP Values](http://www.extremeprogramming.org/)
 
@@ -103,16 +103,16 @@ We continuously develop, build, test, and deploy our software
 Form cross functional team; collaborate with each other; have a high degree of internal alignment; empower each other to get the work done.
 
 Feature teams are comprised of a Product Engineer, Lead Engineer, Product Designer, Software Engineers. Whole team collaborates on Epics and Features.
-+ Product Engineer - responsible for building a thing customers need, producing Epics and Features
-+ Lead Engineer - responsible for shipping and architectural supervision (DW: advice, support, mentoring?)
-+ Product Designer - design how customers interact with the product
-+ Software Engineer - responsible for [design, creation, testing] quality of results
++ Product Engineer responsible for building a thing customers need, producing Epics and Features
++ Lead Engineer responsible for shipping and architectural supervision (DW: advice, support, mentoring?)
++ Product Designer design how customers interact with the product
++ Software Engineer responsible for [design, creation, testing] quality of results
 How does a group become a team? What does starting look like?
 
 Charter/Mission
 Working Agreement/ Definition of Done
 Team Name
-Ceremonies
+Ceremonies - Standup, Demo, Retrospective
 Team size
 Roles
 + Product Engineer - responsible for building a thing customers need, producing Epics and Features
@@ -121,14 +121,14 @@ Roles
 + Software Engineer - responsible for [design, creation, testing] quality of results
 
 Tools for reaching agreements and dealing with conflict
-Disagree and commit - Fist of Five
-http://freechild.org/Firestarter/Fist2Five.htm
-Getting to Yes - Perfection Game
-http://liveingreatness.com/core-protocols/perfection-game/
++ Disagree and commit
+[Fist of Five](http://freechild.org/Firestarter/Fist2Five.htm)
+Getting to Yes - [Perfection Game](http://liveingreatness.com/core-protocols/perfection-game/)
 But stop lying to each other (fake agreement)
+
 Ceremonies and cadence
 Little’s law
-Estimation
+Estimation or flow?
 Cycles – 2 weeks
 Meetings
 Standup
