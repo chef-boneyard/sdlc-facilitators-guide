@@ -10,10 +10,11 @@ slidenumbers: true
 
 ![left](pics/JA2.JPG)
 ![right](pics/jeff_hackert.JPG)
+![right](pics/Dave_Wylie.JPG)
 
 David Wylie
-VP Worldwide Awesome - Solutions IQ
-@twitter / email
+Managing Director - Solutions IQ
+@davidwylie4 / dwylie@solutionsiq.com
 
 Jeff Hackert
 Director, Learning and development - CHEF
