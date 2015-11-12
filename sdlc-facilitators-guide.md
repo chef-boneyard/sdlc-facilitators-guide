@@ -52,7 +52,64 @@ Director, Learning and development - CHEF
 
 ---
 
-## Agile, A brief history
+> Technology means ​​the knowledge of making; that is, how we create structures in the world that help us do the things that we want and need to do to thrive as human beings.
+-- Yoda
+
+---
+
+![](pics/wall-art-modern.jpg)
+
+## (1) Agile, A brief history
+
+---
+
+![](pics/wall-art-modern.jpg)
+
+## (2) Team is a Verb
+
+---
+
+![](pics/wall-art-modern.jpg)
+
+## (3) How we Work
+
+---
+
+![](pics/wall-art-modern.jpg)
+
+## (4) Ceremonies & Cadence
+
+---
+
+![](pics/wall-art-modern.jpg)
+
+## (5) Product
+
+^ Work with Product
++ Epics, Prioritization, Roadmap
++ Storymapping
+
+---
+
+![](pics/wall-art-modern.jpg)
+
+## (6) Practices and Craft
+
+---
+
+![](pics/wall-art-modern.jpg)
+
+## (7) Ship It!
+
+^ Getting to done
+
+---
+
+![](pics/wall-art-modern.jpg)
+
+## (8) Evolving
+
+^ How do we help teams evolve their process?
 
 ---
 
@@ -60,7 +117,7 @@ Director, Learning and development - CHEF
 
 ---
 
-ELSA (how to create org change)
+## ELSA (how to create org change, for reals)
 
 ---
 
@@ -90,11 +147,11 @@ ELSA (how to create org change)
 
 ---
 
-^ The world that is being built…’
-What does an architect have to say to software engineers, thought workers, leaders? I would ask you to think of your work contexts as the structures or ‘centers’  we create and in which our teams work and learn.  
-Sometimes going a little abstract can be a helpful exercise.  Are the centers we create more living or less living?
+> "It is conceivable to imagine a future in which this problem of generating the living structure in the world is something that you would explicitly recognize as part of your responsibility…I do think you are capable of that and I don’t think anyone else is going to do this job.”
+-- Christopher Alexander​​
 
-Alexander argues that the living structure is at once both personal and structural. Technology means ​​_the knowledge of making_​​ -- that is, how to create structures in the world that help us do the things that we want and need to do to thrive as human beings.
-To that point, here are my two favorite quotes from the video, linked together: ​​*"It is conceivable to imagine a future in which this problem of generating the living structure in the world is something that you would explicitly recognize as part of your responsibility…I do think you are capable of that and I don’t think anyone else is going to do this job.”*​​ 
+---
+
+![](pics/IMG_2075.jpg)
 
 ---
