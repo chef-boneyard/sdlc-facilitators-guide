@@ -89,6 +89,14 @@ Director, Learning and development - CHEF
 
 ---
 
+## Conway's Law
+
+^ organizational structure is a product of communication patterns, this means that your org structure
+is a product of history, not of control - This is a good thing for change agents, but keep in mind that
+change agents are never the agent of change :) It's a cruel truth and the sooner you get used to it the more hepful you will become to your colleagues and to your teams.
+
+---
+
 ![](pics/paint2.jpg)
 
 > Culture Debt > Technical Debt
