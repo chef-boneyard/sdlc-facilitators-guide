@@ -41,6 +41,8 @@ Director, Learning and development - CHEF
 
 ---
 
+![](pics/paint1.jpg)
+
 ## What will we learn?
 
 + Chef Engineering Values, Principles, Practices
@@ -53,6 +55,14 @@ Director, Learning and development - CHEF
 
 ---
 
+![](pics/wall-art-modern.jpg)
+
+## (0) Why an SDLC?
+
+---
+
+![](pics/paint2.jpg)
+
 > Technology means ​​the knowledge of making; that is, how we create structures in the world that help us do the things that we want and need to do to thrive as human beings.
 -- Yoda
 
@@ -62,7 +72,11 @@ Director, Learning and development - CHEF
 
 ## (1) Agile, A brief history
 
+^ How did we get here? Why is process necessary?
+
 ---
+
+![](pics/paint2.jpg)
 
 > Prediction != Progress
 -- Boba Fett
@@ -75,14 +89,34 @@ Director, Learning and development - CHEF
 
 ---
 
+![](pics/paint2.jpg)
+
 > Culture Debt > Technical Debt
 -- Chewbaca
+
+---
+
+![](pics/paint1.jpg)
+
+## B = F(p,e) Lewin's law
 
 ---
 
 ![](pics/wall-art-modern.jpg)
 
 ## (3) How we Work
+
+---
+
+![](pics/paint1.jpg)
+
+## IOTA (How to think about thinking about process and product)
+
+^ IOTA is a model that helps in approaching a very short form A3 doc (Justin and I call the J2)
+
+---
+
+![fit](pics/Devops  - 20.jpg)
 
 ---
 
@@ -102,6 +136,14 @@ Director, Learning and development - CHEF
 
 ---
 
+![](pics/paint1.jpg)
+
+## 2 product Principle
+
+^ we are continuously delivering 2 pieces of value, customer value and kaizen improvements
+
+---
+
 ![](pics/wall-art-modern.jpg)
 
 ## (6) Practices and Craft
@@ -112,9 +154,34 @@ Director, Learning and development - CHEF
 
 ## (7) Ship It!
 
-^ Getting to done
+^ Getting to done, getting to production
 
 ---
+
+![](pics/wall-art-modern.jpg)
+
+## (8) Measurement
+
+^ Little's Law, etc.
+
+---
+
+![](pics/paint1.jpg)
+
+## Little's Law
+
+---
+
+![](pics/wall-art-modern.jpg)
+
+## (9) Praxis
+### How Pollock chose sticks
+
+^ How do we help teams evolve their process and practices? What is the role of the coach?
+
+---
+
+![](pics/paint2.jpg)
 
 > “I have a general notion of what I’m about and what the results will be … With experience, it seems possible to control the flow of paint to a great extent … I deny the accident.”
 -- Jackson Pollock
@@ -123,46 +190,43 @@ Director, Learning and development - CHEF
 
 ![](pics/wall-art-modern.jpg)
 
-## (8) Praxis
-### How Pollock chose sticks
+## (10) Rules for Software Radicals
 
-^ How do we help teams evolve their process and practices? What is the role of the coach?
-
----
-
-## Why an SDLC?
+^ Change is hard, don't be a dick about it. Creating and sustaining org change (ELSA)
 
 ---
+
+![](pics/paint1.jpg)
 
 ## ELSA (how to create org change, for reals)
 
 ---
 
+![](pics/paint1.jpg)
+
 ## Our relationship to change
 
 ---
 
-## 2 product Principle
-
-^ we are continuously delivering 2 pieces of value, customer value and kaizen improvements
-
----
-
-## IOTA (How to think about thinking about process and product)
-
----
+![](pics/paint1.jpg)
 
 ## SDLC Epics
 
 ---
 
+![](pics/paint1.jpg)
+
 ## Stories
 
 ---
 
+![](pics/paint1.jpg)
+
 ## Chores, Bugs, ...?
 
 ---
+
+![](pics/paint2.jpg)
 
 > "It is conceivable to imagine a future in which this problem of generating the living structure in the world is something that you would explicitly recognize as part of your responsibility…I do think you are capable of that and I don’t think anyone else is going to do this job.”
 -- Christopher Alexander​​
