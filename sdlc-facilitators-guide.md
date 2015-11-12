@@ -31,13 +31,13 @@ Director, Learning and development - CHEF
 
 ---
 
+![](pics/jackson-pollock.jpg)
+
 ## Values, Principles, Practices
 
-^ lead with an exercise: What principles do you see at work in your teams? How do they support what your team do?
+^ Short speech about relationship between principles and practices. It's to start with why, and it is exactly what is expected of us. Doing _the hard right thing_ presupposes a value system that leads to improved discernment. So be brave little buckaroos, you can do this and so can your teams!
 
----
-
-## Welcome
+^ Run an exercise: What principles do you see at work in your teams? How do they support what your team do? How do values and principles support practices?
 
 ---
 
@@ -46,7 +46,8 @@ Director, Learning and development - CHEF
 + Chef Engineering Values, Principles, Practices
 + Agile and XP (just enough to be dangerous)
 + Our SDLC (how it works, how to run it, how to test, how to intervene)
-+ Ceremony facilitation
++ Team Ceremony facilitation
++ Something about Modernism, Pragmatism, and Organizational Change
 
 ^ what are we getting up to today?
 
@@ -63,9 +64,19 @@ Director, Learning and development - CHEF
 
 ---
 
+> Prediction != Progress
+-- Boba Fett
+
+---
+
 ![](pics/wall-art-modern.jpg)
 
 ## (2) Team is a Verb
+
+---
+
+> Culture Debt > Technical Debt
+-- Chewbaca
 
 ---
 
@@ -105,11 +116,17 @@ Director, Learning and development - CHEF
 
 ---
 
+> “I have a general notion of what I’m about and what the results will be … With experience, it seems possible to control the flow of paint to a great extent … I deny the accident.”
+-- Jackson Pollock
+
+---
+
 ![](pics/wall-art-modern.jpg)
 
-## (8) Evolving
+## (8) Praxis
+### How Pollock chose sticks
 
-^ How do we help teams evolve their process?
+^ How do we help teams evolve their process and practices? What is the role of the coach?
 
 ---
 
