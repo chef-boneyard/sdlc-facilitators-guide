@@ -102,15 +102,39 @@ We work together to make better, faster decisions, and we learn from our mistake
 We continuously develop, build, test, and deploy our software
 Form cross functional team; collaborate with each other; have a high degree of internal alignment; empower each other to get the work done.
 
-Feature teams are comprised of a Product Engineer, Lead Engineer, Product Designer, Software Engineers. Whole team collaborates on Epics and Features.
+**Feature teams** are comprised of a Product Engineer, Lead Engineer, Product Designer, Software Engineers. Whole team collaborates on Epics and Features.
+
 + Product Engineer responsible for building a thing customers need, producing Epics and Features
 + Lead Engineer responsible for shipping and architectural supervision (DW: advice, support, mentoring?)
 + Product Designer design how customers interact with the product
 + Software Engineer responsible for [design, creation, testing] quality of results
 How does a group become a team? What does starting look like?
 
-Charter/Mission
-Working Agreement/ Definition of Done
+**Charter/Mission**
+A healthy team that has a clear direction and understands the "why" of their work.
+
+**Working Agreement **
+Chef teams collaborate. Becoming a Team involves commitment to working together and supporting each other. This commitment is supported by writing what all team members believe are important practices and standards for the Team to comply with to maximize their capabilities to deliver faster and with higher quality. The working agreement is defined by the team members.  It should be reviewed during Retrospectives, and kept viable and relevant.
+
+Sample items include:
+- Time for daily standup
+- Code review standards
+- Support for Production issues
+- Communicating time or days when unavailable
+- Conflict resolution techniques used
+
+**Definition of Done**
+Definition of Done (DoD) is a simple list of activities required to produce software (writing code, coding comments, unit testing, integration testing, release notes, design documents, etc.) that add verifiable/demonstrable value to the product. 
+
+Sample items include:
+- All code has tests
+- All bugs have tests to recreate the issue
+- Release notes updated
+- UX components reviewed by Product Designer
+
+Reporting in its simplest form is the ability to say, “This feature is done.” After all, a feature or Product Backlog Item is either done or it is not-done. DoD is a simple artifact that adds clarity to the “Feature’s done” statement.  Using DoD as a reference for this conversation a team member can effectively update other team members and the product engineer.  - See more at: https://www.scrumalliance.org/community/articles/2008/september/what-is-definition-of-done-(dod)#sthash.OtH9HIZs.dpuf
+
+- See more at: https://www.scrumalliance.org/community/articles/2008/september/what-is-definition-of-done-(dod)#sthash.OtH9HIZs.dpuf
 Team Name
 Ceremonies - Standup, Demo, Retrospective
 Team size
