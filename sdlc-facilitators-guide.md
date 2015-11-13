@@ -8,9 +8,8 @@ slidenumbers: true
 
 ---
 
-![left](pics/JA2.JPG)
+![left](pics/Dave_Wylie.jpg)
 ![right](pics/jeff_hackert.JPG)
-![right](pics/Dave_Wylie.JPG)
 
 David Wylie
 Managing Director - Solutions IQ
