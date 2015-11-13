@@ -11,6 +11,10 @@ slidenumbers: true
 ![left](pics/Dave_Wylie.jpg)
 ![right](pics/jeff_hackert.JPG)
 
+Oliver Ferrigni
+Engineering Manager - CHEF
+@awesomesauce / oliver@chef.io
+
 David Wylie
 Managing Director - Solutions IQ
 @davidwylie4 / dwylie@solutionsiq.com
@@ -25,9 +29,9 @@ Director, Learning and development - CHEF
 
 ## Values, Principles, Practices
 
-^ Short speech about relationship between principles and practices. It's to start with why, and it is exactly what is expected of us. Doing _the hard right thing_ presupposes a value system that leads to improved discernment. So be brave little buckaroos, you can do this and so can your teams!
+^ Short speech about relationship between principles and practices. It's hard to start with the why, and it is exactly what is expected of us. Doing _the hard right thing_ presupposes a value system that leads to improved discernment. So be brave little buckaroos, you can do this and so can your teams!
 
-^ Run an exercise: What principles do you see at work in your teams? How do they support what your team do? How do values and principles support practices?
+^ Run an exercise: What principles do you see at work in your teams? How do they support what your team's do? How do values and principles support practices? - Handout a list of agile, XP, and Chef values and have folks pick or circle what they see in action vs.
 
 ---
 
@@ -85,7 +89,7 @@ Director, Learning and development - CHEF
 
 ^ organizational structure is a product of communication patterns, this means that your org structure
 is a product of history, not of control - This is a good thing for change agents, but keep in mind that
-change agents are never the agent of change :) It's a cruel truth and the sooner you get used to it the more hepful you will become to your colleagues and to your teams.
+change agents are never the agent of change :) It's a cruel truth and the sooner you get used to it the more helpful you will become to your colleagues and to your teams.
 
 ---
 
