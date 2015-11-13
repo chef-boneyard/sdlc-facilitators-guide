@@ -8,8 +8,9 @@ slidenumbers: true
 
 ---
 
-![left](pics/Dave_Wylie.jpg)
-![right](pics/jeff_hackert.JPG)
+![](pics/Dave_Wylie.jpg)
+![](pics/??.jpg)
+![](pics/jeff_hackert.JPG)
 
 Oliver Ferrigni
 Engineering Manager - CHEF
