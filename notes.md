@@ -132,23 +132,31 @@ Sample items include:
 - Release notes updated
 - UX components reviewed by Product Designer
 
-Reporting in its simplest form is the ability to say, “This feature is done.” After all, a feature or Product Backlog Item is either done or it is not-done. DoD is a simple artifact that adds clarity to the “Feature’s done” statement.  Using DoD as a reference for this conversation a team member can effectively update other team members and the product engineer.  - See more at: https://www.scrumalliance.org/community/articles/2008/september/what-is-definition-of-done-(dod)#sthash.OtH9HIZs.dpuf
+Reporting in its simplest form is the ability to say, “This feature is done.” After all, a feature or Product Backlog Item is either done or it is not-done. DoD is a simple artifact that adds clarity to the “Feature’s done” statement.  Using DoD as a reference for this conversation a team member can effectively update other team members and the product engineer.  - [See more](https://www.scrumalliance.org/community/articles/2008/september/what-is-definition-of-done-(dod)#sthash.OtH9HIZs.dpuf)
 
-- See more at: https://www.scrumalliance.org/community/articles/2008/september/what-is-definition-of-done-(dod)#sthash.OtH9HIZs.dpuf
-Team Name
-Ceremonies - Standup, Demo, Retrospective
+**Team Name** Who are you?  Are you more than your product? What kind of t-shirts will you have?
+
+**Ceremonies** - Standup, Demo, Retrospective
 Team size
-Roles
+
+**Roles**
+
 + Product Engineer - responsible for building a thing customers need, producing Epics and Features
 + Lead Engineer - responsible for shipping and architectural supervision (DW: advice, support, mentoring?)
 + Product Designer - design how customers interact with the product
 + Software Engineer - responsible for [design, creation, testing] quality of results
 
-Tools for reaching agreements and dealing with conflict
+**Tools** for reaching agreements and dealing with conflict
+
++ Get to Agreement [Roman Voting](http://www.estherderby.com/2010/07/self-facilitation-skills-for-teams.html)
+
 + Disagree and commit
 [Fist of Five](http://freechild.org/Firestarter/Fist2Five.htm)
-Getting to Yes - [Perfection Game](http://liveingreatness.com/core-protocols/perfection-game/)
-But stop lying to each other (fake agreement)
+
+
++ Getting to Yes - [Perfection Game](http://liveingreatness.com/core-protocols/perfection-game/)
+
+But stop lying to each other! (fake agreement)
 
 Ceremonies and cadence
 Little’s law
