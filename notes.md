@@ -162,42 +162,58 @@ Ceremonies and cadence
 Little’s law
 Estimation or flow?
 Cycles – 2 weeks
-Meetings
-Standup
-Daily
-<=15 minutes
-Address Expedited Issues
-Address anything that is blocking you in completing tasks
-For Fixed Delivery work, are we on track or need to communicate slip
-Review stuck (aka Blocked) issues
-Discuss work that is being done but not on board (DW: minimize towards zero)
-Queue Replenishment (aka Refinement)
-Weekly
-30 minutes
-Ensure just enough work is ready for team
-Review items In Analysis, answer outstand questions from team. Sort
-Review Ready for Analysis. Sort
-Refine work [at the top of ] the Backlog, ensuring there is enough work in Ready for Analysis before the next Replenishment meeting
-Demo
-Weekly
-30 minutes
-Demonstrate features shipped that week.
-Only show work deployed to an acceptance environment
-Retrospective
-Monthly
-45 minutes
-Connect as a team to discuss process and outcomes
-Gather information to identify
-What went well?
-What were challenges?
-What [few] experiments could we try to improve our process, flow, and results?
-Health Check (across teams)
-Monthly
-45 minutes
-For Engineering Leadership, Engineering Leads, Product Engineers, and Employee Experience folks
-Each Feature team ranks their health (RYG)
-Ask the Red teams to describe their issues, providing suggestions and scheduling follow-up with Leadership
-Ask the Yellow teams to describe their issues, providing suggestions and feedback.
+
+##MEETINGS
+
+**Standup**
+
++ Daily
++ <=15 minutes
++ Address Expedited Issues
++ Address anything that is blocking you in completing tasks
++ For Fixed Delivery work, are we on track or need to communicate slip
++ Review stuck (aka Blocked) issues
++ Discuss work that is being done but not on board (DW: minimize towards zero)
+
+**Queue Replenishment** (aka Refinement)
+
++ Weekly
++ 30 minutes
++ Ensure just enough work is ready for team
++ Review items In Analysis, answer outstand questions from team. Sort
++ Review Ready for Analysis. Sort
++ Refine work [at the top of ] the Backlog, ensuring there is enough work in
++ Ready for Analysis before the next Replenishment meeting
+
+
+**Demo**
+
++ Weekly
++ 30 minutes
++ Demonstrate features shipped that week.
++ Only show work deployed to an acceptance environment
+
+
+**Retrospective**
+
++ Monthly
++ 45 minutes
++ Connect as a team to discuss process and outcomes
++ Gather information to identify
+	+	What went well?
+	+ What were challenges?
+	+ What [few] experiments could we try to improve our process, flow, and results?
+
+**Health Check** (across teams) from the SDLC
+
++ Monthly
++ 45 minutes
++ For Engineering Leadership, Engineering Leads, Product Engineers, and Employee Experience folks
++ Each Feature team ranks their health (Red/Yellow/Green)
++ Ask the Red teams to describe their issues, providing suggestions and scheduling follow-up with Leadership
++ Ask the Yellow teams to describe their issues, providing suggestions and feedback.
+
+
 Sustainable pace
 From Agile Principles “Agile processes promote sustainable development [everyone] should be able to maintain a constant pace indefinitely.”
 Overtime causes negative productivity. http://cs.stanford.edu/people/eroberts/cs181/projects/crunchmode/econ-crunch-mode.html
@@ -235,7 +251,25 @@ Practices/Craft - optional, not stated in SDLC
 TDD/BDD
 What is TDD http://guide.agilealliance.org/guide/tdd.html
 Is TDD Dead - a Youtube discussion https://www.youtube.com/watch?v=z9quxZsLcfo
-Pairing http://guide.agilealliance.org/guide/pairing.html
+
+
+**Pair Programming** [Pairing](http://guide.agilealliance.org/guide/pairing.html)
+
+From Jim Shore: "(its) more fun than it sounds: two programmers at one computer. One drives; the other navigates. Switching roles fluidly, they constantly communicate. Together, they accomplish better work more quickly than either could alone.
+
+The driver types. She focuses on tactics--writing clean code that compiles and runs. The navigator focuses on strategy--how the code fits into the overall design, which tests will drive the code forward, and which refactorings will improve the entire codebase.
+
+Pairs self-organize by selecting partners who can best help with the current task. They switch every few hours to share perspectives and knowledge."
+
+as haiku
+
+"Summer bakes the earth
+ 
+Heads together, we ponder
+ 
+Aha! An insight."
+
+
 CI/CD
 Refactoring
 Coding conventions
