@@ -90,7 +90,7 @@ What practices have helped us be successful with more satisfaction? Let's do tho
 
 > Prediction != Progress
 -- Boba Fett
-
+Use yesterday's weather to predict today's
 ---
 
 ![](pics/wall-art-modern.jpg)
@@ -170,7 +170,7 @@ change agents are never the agent of change :) It's a cruel truth and the sooner
 + Weekly
 + 30 minutes
 + Ensure just enough work is ready for team
-+ Review items In Analysis, answer outstand questions from team. Sort
++ Review items In Analysis, answer outstanding questions from team. Sort
 + Review Ready for Analysis. Sort
 + Refine work [at the top of ] the Backlog, ensuring there is enough work in
 + Ready for Analysis before the next Replenishment meeting
@@ -217,6 +217,12 @@ change agents are never the agent of change :) It's a cruel truth and the sooner
 ^ Work with Product
 + Epics, Prioritization, Roadmap
 + Storymapping
++ Chores and Bugs too
+
+Day in the life of a Product Engineer
+Work is planned, discovered, and sometimes abandoned
+Backlog of work should be visible and prioritized
+
 
 ---
 
