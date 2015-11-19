@@ -67,7 +67,8 @@ Director, Learning and development - CHEF
 
 ## (1) Agile, A brief history
 
-^ How did we get here? Why is process necessary?
+^ How did we get here? Why is process necessary? Modernist vs Post Modernist
+Open source moving to product focus.  Use of XP, Kanban as proven good practices instead of trying to invent a new way starting from zero.
 
 ---
 
@@ -81,6 +82,14 @@ Director, Learning and development - CHEF
 ![](pics/wall-art-modern.jpg)
 
 ## (2) Team is a Verb
+**Feature teams** are comprised of a Product Engineer, Lead Engineer, Product Designer, Software Engineers. Whole team collaborates on Epics and Features.
+
++ **Product Engineer** responsible for building a thing customers need, producing Epics and Features
++ **Lead Engineer** responsible for shipping and architectural supervision 
++ **Product Designer** design how customers interact with the product
++ **Software Engineer** responsible for [design, creation, testing] quality of results
+
+Who provides advice, support, mentoring for your team?
 
 ---
 
@@ -128,7 +137,56 @@ change agents are never the agent of change :) It's a cruel truth and the sooner
 ![](pics/wall-art-modern.jpg)
 
 ## (4) Ceremonies & Cadence
+---
 
+##**Standup**
+
++ Daily
++ <=15 minutes
++ Address Expedited Issues
++ Address anything that is blocking you in completing tasks
++ For Fixed Delivery work, are we on track or need to communicate slip
++ Review stuck (aka Blocked) issues
++ Discuss work that is being done but not on board (DW: minimize towards zero)
+---
+
+##**Queue Replenishment** (aka Refinement)
+
++ Weekly
++ 30 minutes
++ Ensure just enough work is ready for team
++ Review items In Analysis, answer outstand questions from team. Sort
++ Review Ready for Analysis. Sort
++ Refine work [at the top of ] the Backlog, ensuring there is enough work in
++ Ready for Analysis before the next Replenishment meeting
+---
+
+##**Demo**
+
++ Weekly
++ 30 minutes
++ Demonstrate features shipped that week.
++ Only show work deployed to an acceptance environment
+---
+
+##**Retrospective**
+
++ Monthly
++ 45 minutes
++ Connect as a team to discuss process and outcomes
++ Gather information to identify
+	+ What went well?
+	+ What were challenges?
+	+ What [few] experiments could we try to improve our process, flow, and results?
+---
+##**Health Check** (across teams) from the SDLC
+
++ Monthly
++ 45 minutes
++ For Engineering Leadership, Engineering Leads, Product Engineers, and Employee Experience folks
++ Each Feature team ranks their health (Red/Yellow/Green)
++ Ask the Red teams to describe their issues, providing suggestions and scheduling follow-up with Leadership
++ Ask the Yellow teams to describe their issues, providing suggestions and feedback.
 ---
 
 ![](pics/wall-art-modern.jpg)
