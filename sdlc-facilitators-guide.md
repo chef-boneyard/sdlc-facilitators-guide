@@ -71,6 +71,20 @@ Director, Learning and development - CHEF
 Open source moving to product focus.  Use of XP, Kanban as proven good practices instead of trying to invent a new way starting from zero.
 
 ---
+## XP in brief
+What practices have helped us be successful with more satisfaction? Let's do those more!
+
+- Is it good to test our code?  Let's test all the time.
+- Is it good to work with customers (aka the business)?  Let's work together daily.
+- Is it good to review code? Let's do it all the time via pairing.
+- Simple design is easier to develop, validate, and maintain, so keep it as a core principle. 
+- Is feedback good?  Look for opportunities to get feedback more frequently (pairing, unit tests, CI, feature demo, early release). 
+- When people work too long in a day or week, their productivity and quality goes down. So set and keep a sustainable pace.
+
+
+
+
+---
 
 ![](pics/paint2.jpg)
 
@@ -147,7 +161,8 @@ change agents are never the agent of change :) It's a cruel truth and the sooner
 + Address anything that is blocking you in completing tasks
 + For Fixed Delivery work, are we on track or need to communicate slip
 + Review stuck (aka Blocked) issues
-+ Discuss work that is being done but not on board (DW: minimize towards zero)
++ Discuss work that is being done but not on board
++  (DW: minimize towards zero)
 ---
 
 ##**Queue Replenishment** (aka Refinement)
@@ -159,6 +174,7 @@ change agents are never the agent of change :) It's a cruel truth and the sooner
 + Review Ready for Analysis. Sort
 + Refine work [at the top of ] the Backlog, ensuring there is enough work in
 + Ready for Analysis before the next Replenishment meeting
+
 ---
 
 ##**Demo**
@@ -167,6 +183,7 @@ change agents are never the agent of change :) It's a cruel truth and the sooner
 + 30 minutes
 + Demonstrate features shipped that week.
 + Only show work deployed to an acceptance environment
+
 ---
 
 ##**Retrospective**
@@ -178,8 +195,10 @@ change agents are never the agent of change :) It's a cruel truth and the sooner
 	+ What went well?
 	+ What were challenges?
 	+ What [few] experiments could we try to improve our process, flow, and results?
+
+
 ---
-##**Health Check** (across teams) from the SDLC
+##**Health Check** (across teams)
 
 + Monthly
 + 45 minutes
@@ -187,6 +206,8 @@ change agents are never the agent of change :) It's a cruel truth and the sooner
 + Each Feature team ranks their health (Red/Yellow/Green)
 + Ask the Red teams to describe their issues, providing suggestions and scheduling follow-up with Leadership
 + Ask the Yellow teams to describe their issues, providing suggestions and feedback.
+
+
 ---
 
 ![](pics/wall-art-modern.jpg)
