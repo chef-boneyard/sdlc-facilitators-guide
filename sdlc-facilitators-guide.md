@@ -82,15 +82,21 @@ What practices have helped us be successful with more satisfaction? Let's do tho
 - When people work too long in a day or week, their productivity and quality goes down. So set and keep a sustainable pace.
 
 
-
+---
+## Lean
+- Visualize your work and workflow
+- Minimize work in process (WIP)
+- Pull the work
+- Strive for flow
 
 ---
 
 ![](pics/paint2.jpg)
 
 > Prediction != Progress
+> or
+> Action != Progress
 -- Boba Fett
-Use yesterday's weather to predict today's
 ---
 
 ![](pics/wall-art-modern.jpg)
@@ -162,7 +168,8 @@ change agents are never the agent of change :) It's a cruel truth and the sooner
 + For Fixed Delivery work, are we on track or need to communicate slip
 + Review stuck (aka Blocked) issues
 + Discuss work that is being done but not on board
-+  (DW: minimize towards zero)
+	(DW: Do a Standup from Hell exercise?)
++   
 ---
 
 ##**Queue Replenishment** (aka Refinement)
@@ -184,6 +191,7 @@ change agents are never the agent of change :) It's a cruel truth and the sooner
 + Demonstrate features shipped that week.
 + Only show work deployed to an acceptance environment
 
+(DW: Ask for acceptance by Product Engineer?
 ---
 
 ##**Retrospective**
@@ -219,10 +227,10 @@ change agents are never the agent of change :) It's a cruel truth and the sooner
 + Storymapping
 + Chores and Bugs too
 
-Day in the life of a Product Engineer
+*DW ideas: Day in the life of a Product Engineer?
 Work is planned, discovered, and sometimes abandoned
 Backlog of work should be visible and prioritized
-
+Show Henrik Kniberg "Product Ownership in a Nutshell"?*
 
 ---
 
@@ -231,7 +239,7 @@ Backlog of work should be visible and prioritized
 ## 2 product Principle
 
 ^ we are continuously delivering 2 pieces of value, customer value and kaizen improvements
-
+(DW: Ask the audience if they know where their work comes from)
 ---
 
 ![](pics/wall-art-modern.jpg)
@@ -251,8 +259,8 @@ Backlog of work should be visible and prioritized
 - Who does code reviews? Who tests? 
 - Who accepts the feature from product team?
 
-Put this into your Definition of Done and/or Working Agreement
-
+*DW: Put this into your Definition of Done and/or Working Agreement
+Ask audience if they know the path to production, after they are "done"*
 ---
 
 ![](pics/wall-art-modern.jpg)
@@ -333,3 +341,7 @@ Put this into your Definition of Done and/or Working Agreement
 ![](pics/IMG_2075.jpg)
 
 ---
+## Barriers
+DW: *What exists in our current organization and culture that would prevent you from making changes we have talked about?*
+
+*What actions can you take tomorrow?*
