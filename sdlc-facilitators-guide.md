@@ -239,6 +239,13 @@ change agents are never the agent of change :) It's a cruel truth and the sooner
 ## (7) Ship It!
 
 ^ Getting to done, getting to production
+ 
+
+- What does “done” look like? 
+- Who does code reviews? Who tests? 
+- Who accepts the feature from product team?
+
+Put this into your Definition of Done and/or Working Agreement
 
 ---
 
