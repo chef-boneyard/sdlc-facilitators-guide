@@ -1,14 +1,14 @@
 {
   "version": "2",
   "build_cookbook": {
-    "name": "build-cookbook",
-    "path": ".delivery/build-cookbook"
+    "git": "https://github.com/opscode-cookbooks/delivery-truck.git",
+    "branch": "master",
+    "name": "delivery-truck"
   },
   "skip_phases": [
   "unit",
   "lint",
   "syntax",
-  "publish",
   "provision",
   "deploy",
   "smoke",
@@ -17,5 +17,11 @@
   "security"
   ],
   "build_nodes": {},
-  "dependencies": []
+  "dependencies": [],
+  "delivery-truck": {
+    "publish": {
+      "github": "chef/sdlc-facilitators-guide",
+      "chef_server": true
+    }
+  }
 }
