@@ -12,7 +12,9 @@
   "provision",
   "deploy",
   "smoke",
-  "functional"
+  "functional",
+  "quality",
+  "security"
   ],
   "build_nodes": {},
   "dependencies": []
