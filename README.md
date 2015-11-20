@@ -9,3 +9,5 @@
 + Sub sections are double hash.
 + Bullets are always noted with a  +
 + Additional concepts and detail are linked within the slides. see [Link Example](/linkexample.md)
+
+Note, All changes should be via delivery
