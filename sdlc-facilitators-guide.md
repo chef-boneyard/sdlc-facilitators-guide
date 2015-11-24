@@ -46,7 +46,7 @@ Director, Learning and development - CHEF
 + Team Ceremony facilitation
 + Something about Modernism, Pragmatism, and Organizational Change
 
-^ what are we getting up to today?
+^ what are we getting up to today? poop poop
 
 ---
 
@@ -77,8 +77,8 @@ What practices have helped us be successful with more satisfaction? Let's do tho
 - Is it good to test our code?  Let's test all the time.
 - Is it good to work with customers (aka the business)?  Let's work together daily.
 - Is it good to review code? Let's do it all the time via pairing.
-- Simple design is easier to develop, validate, and maintain, so keep it as a core principle. 
-- Is feedback good?  Look for opportunities to get feedback more frequently (pairing, unit tests, CI, feature demo, early release). 
+- Simple design is easier to develop, validate, and maintain, so keep it as a core principle.
+- Is feedback good?  Look for opportunities to get feedback more frequently (pairing, unit tests, CI, feature demo, early release).
 - When people work too long in a day or week, their productivity and quality goes down. So set and keep a sustainable pace.
 
 
@@ -105,7 +105,7 @@ What practices have helped us be successful with more satisfaction? Let's do tho
 **Feature teams** are comprised of a Product Engineer, Lead Engineer, Product Designer, Software Engineers. Whole team collaborates on Epics and Features.
 
 + **Product Engineer** responsible for building a thing customers need, producing Epics and Features
-+ **Lead Engineer** responsible for shipping and architectural supervision 
++ **Lead Engineer** responsible for shipping and architectural supervision
 + **Product Designer** design how customers interact with the product
 + **Software Engineer** responsible for [design, creation, testing] quality of results
 
@@ -253,10 +253,10 @@ Show Henrik Kniberg "Product Ownership in a Nutshell"?*
 ## (7) Ship It!
 
 ^ Getting to done, getting to production
- 
 
-- What does “done” look like? 
-- Who does code reviews? Who tests? 
+
+- What does “done” look like?
+- Who does code reviews? Who tests?
 - Who accepts the feature from product team?
 
 *DW: Put this into your Definition of Done and/or Working Agreement
