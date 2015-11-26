@@ -71,7 +71,9 @@ Director, Learning and development - CHEF
 Open source moving to product focus.  Use of XP, Kanban as proven good practices instead of trying to invent a new way starting from zero.
 
 ---
+
 ## XP in brief
+
 What practices have helped us be successful with more satisfaction? Let's do those more!
 
 - Is it good to test our code?  Let's test all the time.
@@ -349,6 +351,8 @@ Ask audience if they know the path to production, after they are "done"*
 -- Christopher Alexander​​
 
 ---
+
+![](pics/paint1.jpg)
 
 ## Barriers
 
