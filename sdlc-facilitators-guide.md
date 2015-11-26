@@ -46,7 +46,7 @@ Director, Learning and development - CHEF
 + Team Ceremony facilitation
 + Something about Modernism, Pragmatism, and Organizational Change
 
-^ what are we getting up to today? poop poop
+^ what are we getting up to today?
 
 ---
 
@@ -81,8 +81,8 @@ What practices have helped us be successful with more satisfaction? Let's do tho
 - Is feedback good?  Look for opportunities to get feedback more frequently (pairing, unit tests, CI, feature demo, early release).
 - When people work too long in a day or week, their productivity and quality goes down. So set and keep a sustainable pace.
 
-
 ---
+
 ## Lean
 - Visualize your work and workflow
 - Minimize work in process (WIP)
@@ -94,14 +94,20 @@ What practices have helped us be successful with more satisfaction? Let's do tho
 ![](pics/paint2.jpg)
 
 > Prediction != Progress
-> or
-> Action != Progress
 -- Boba Fett
+
+^ or Action != Progress
+
 ---
 
 ![](pics/wall-art-modern.jpg)
 
 ## (2) Team is a Verb
+
+---
+
+![](pics/paint2.jpg)
+
 **Feature teams** are comprised of a Product Engineer, Lead Engineer, Product Designer, Software Engineers. Whole team collaborates on Epics and Features.
 
 + **Product Engineer** responsible for building a thing customers need, producing Epics and Features
@@ -157,9 +163,10 @@ change agents are never the agent of change :) It's a cruel truth and the sooner
 ![](pics/wall-art-modern.jpg)
 
 ## (4) Ceremonies & Cadence
+
 ---
 
-##**Standup**
+## Standup
 
 + Daily
 + <=15 minutes
@@ -169,10 +176,10 @@ change agents are never the agent of change :) It's a cruel truth and the sooner
 + Review stuck (aka Blocked) issues
 + Discuss work that is being done but not on board
 	(DW: Do a Standup from Hell exercise?)
-+   
+
 ---
 
-##**Queue Replenishment** (aka Refinement)
+## Queue Replenishment (aka Refinement)
 
 + Weekly
 + 30 minutes
@@ -184,17 +191,18 @@ change agents are never the agent of change :) It's a cruel truth and the sooner
 
 ---
 
-##**Demo**
+## Demo
 
 + Weekly
 + 30 minutes
 + Demonstrate features shipped that week.
 + Only show work deployed to an acceptance environment
 
-(DW: Ask for acceptance by Product Engineer?
+^ (DW: Ask for acceptance by Product Engineer?
+
 ---
 
-##**Retrospective**
+## Retrospective
 
 + Monthly
 + 45 minutes
@@ -204,9 +212,9 @@ change agents are never the agent of change :) It's a cruel truth and the sooner
 	+ What were challenges?
 	+ What [few] experiments could we try to improve our process, flow, and results?
 
-
 ---
-##**Health Check** (across teams)
+
+## Health Check (across teams)
 
 + Monthly
 + 45 minutes
@@ -214,7 +222,6 @@ change agents are never the agent of change :) It's a cruel truth and the sooner
 + Each Feature team ranks their health (Red/Yellow/Green)
 + Ask the Red teams to describe their issues, providing suggestions and scheduling follow-up with Leadership
 + Ask the Yellow teams to describe their issues, providing suggestions and feedback.
-
 
 ---
 
@@ -227,7 +234,7 @@ change agents are never the agent of change :) It's a cruel truth and the sooner
 + Storymapping
 + Chores and Bugs too
 
-*DW ideas: Day in the life of a Product Engineer?
+^ *DW ideas: Day in the life of a Product Engineer?
 Work is planned, discovered, and sometimes abandoned
 Backlog of work should be visible and prioritized
 Show Henrik Kniberg "Product Ownership in a Nutshell"?*
@@ -240,6 +247,7 @@ Show Henrik Kniberg "Product Ownership in a Nutshell"?*
 
 ^ we are continuously delivering 2 pieces of value, customer value and kaizen improvements
 (DW: Ask the audience if they know where their work comes from)
+
 ---
 
 ![](pics/wall-art-modern.jpg)
@@ -254,13 +262,17 @@ Show Henrik Kniberg "Product Ownership in a Nutshell"?*
 
 ^ Getting to done, getting to production
 
+---
 
-- What does “done” look like?
-- Who does code reviews? Who tests?
-- Who accepts the feature from product team?
+![](pics/paint1.jpg)
 
-*DW: Put this into your Definition of Done and/or Working Agreement
++ What does “done” look like?
++ Who does code reviews? Who tests?
++ Who accepts the feature from product team?
+
+^ DW: Put this into your Definition of Done and/or Working Agreement
 Ask audience if they know the path to production, after they are "done"*
+
 ---
 
 ![](pics/wall-art-modern.jpg)
@@ -338,10 +350,13 @@ Ask audience if they know the path to production, after they are "done"*
 
 ---
 
+## Barriers
+
++ What exists in our current organization and culture that would prevent you from making changes we have talked about?
++ What actions can you take tomorrow?
+
+---
+
 ![](pics/IMG_2075.jpg)
 
 ---
-## Barriers
-DW: *What exists in our current organization and culture that would prevent you from making changes we have talked about?*
-
-*What actions can you take tomorrow?*
