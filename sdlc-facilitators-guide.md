@@ -262,11 +262,44 @@ Show Henrik Kniberg "Product Ownership in a Nutshell"?*
 
 ---
 
+![](pics/paint1.jpg)
+
+## Outside-In (Double Loop) TDD
+
+^ Show flow diagram here
+
+---
+
+![](pics/paint1.jpg)
+
+## Quick mention of Double Loop learning
+
+---
+
+![](pics/paint1.jpg)
+
+## Oliver's TDD Tutorial
+
+---
+
+![](pics/paint1.jpg)
+
+## Refactoring
+
+---
+
+![right autoplay mute](https://youtu.be/wmOofF7FnQA)
+
+> When refactoring, work with either the test or the code, but never both at once.
+-- Refactoring cat
+
+---
+
 ![](pics/wall-art-modern.jpg)
 
 ## (7) Ship It!
 
-^ Getting to done, getting to production
+^ Getting to done, getting to production - need lot's of input here from Seth and Joseph's team
 
 ---
 
@@ -286,6 +319,12 @@ Ask audience if they know the path to production, after they are "done"*
 ## (8) Measurement
 
 ^ Little's Law, etc.
+
+---
+
+![](pics/paint1.jpg)
+
+## Kanban in a nutshell
 
 ---
 
