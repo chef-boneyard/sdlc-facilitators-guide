@@ -28,7 +28,8 @@ Director, Learning and development - CHEF
 
 ![](pics/jackson-pollock.jpg)
 
-## Values, Principles, Practices
+## [Values, Principles, Practices](#agile_principles)
+<a name="principles_excercise"/>
 
 ^ Short speech about relationship between principles and practices. It's hard to start with the why, and it is exactly what is expected of us. Doing _the hard right thing_ presupposes a value system that leads to improved discernment. So be brave little buckaroos, you can do this and so can your teams!
 
@@ -295,6 +296,9 @@ Show Henrik Kniberg "Product Ownership in a Nutshell"?*
 
 ---
 
+
+---
+
 ![](pics/wall-art-modern.jpg)
 
 ## (7) Ship It!
@@ -405,5 +409,14 @@ Ask audience if they know the path to production, after they are "done"*
 ---
 
 ![](pics/IMG_2075.jpg)
+
+---
+
+<a name="agile_principles"/>
+## Agile Principles
+
++ [Principles behind the Agile Manifesto](http://www.agilemanifesto.org/principles.html)
+
+[back](#principles_excercise)
 
 ---
