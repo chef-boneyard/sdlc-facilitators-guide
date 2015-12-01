@@ -28,7 +28,8 @@ Director, Learning and development - CHEF
 
 ![](pics/jackson-pollock.jpg)
 
-## Values, Principles, Practices
+## [Values, Principles, Practices](#agile_principles)
+<a name="principles_excercise"/>
 
 ^ Short speech about relationship between principles and practices. It's hard to start with the why, and it is exactly what is expected of us. Doing _the hard right thing_ presupposes a value system that leads to improved discernment. So be brave little buckaroos, you can do this and so can your teams!
 
@@ -262,11 +263,47 @@ Show Henrik Kniberg "Product Ownership in a Nutshell"?*
 
 ---
 
+![](pics/paint1.jpg)
+
+## Outside-In (Double Loop) TDD
+
+^ Show flow diagram here
+
+---
+
+![](pics/paint1.jpg)
+
+## Quick mention of Double Loop learning
+
+---
+
+![](pics/paint1.jpg)
+
+## Oliver's TDD Tutorial
+
+---
+
+![](pics/paint1.jpg)
+
+## Refactoring
+
+---
+
+![right autoplay mute](https://youtu.be/wmOofF7FnQA)
+
+> When refactoring, work with either the test or the code, but never both at once.
+-- Refactoring cat
+
+---
+
+
+---
+
 ![](pics/wall-art-modern.jpg)
 
 ## (7) Ship It!
 
-^ Getting to done, getting to production
+^ Getting to done, getting to production - need lot's of input here from Seth and Joseph's team
 
 ---
 
@@ -286,6 +323,12 @@ Ask audience if they know the path to production, after they are "done"*
 ## (8) Measurement
 
 ^ Little's Law, etc.
+
+---
+
+![](pics/paint1.jpg)
+
+## Kanban in a nutshell
 
 ---
 
@@ -366,5 +409,14 @@ Ask audience if they know the path to production, after they are "done"*
 ---
 
 ![](pics/IMG_2075.jpg)
+
+---
+
+<a name="agile_principles"/>
+## Agile Principles
+
++ [Principles behind the Agile Manifesto](http://www.agilemanifesto.org/principles.html)
+
+[back](#principles_excercise)
 
 ---
