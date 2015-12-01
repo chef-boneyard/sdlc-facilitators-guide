@@ -32,7 +32,7 @@ Director, Learning and development - CHEF
 
 ^ Short speech about relationship between principles and practices. It's hard to start with the why, and it is exactly what is expected of us. Doing _the hard right thing_ presupposes a value system that leads to improved discernment. So be brave little buckaroos, you can do this and so can your teams!
 
-^ Run an exercise: What principles do you see at work in your teams? How do they support what your team's do? How do values and principles support practices? - Handout a list of agile, XP, and Chef values and have folks pick or circle what they see in action vs.
+^ Run an exercise: What principles do you see at work in your teams? How do they support what your teams do? How do values and principles support practices? - Handout a list of agile, XP, and Chef values and have folks pick or circle what they see in action vs.
 
 ---
 
@@ -110,12 +110,15 @@ What practices have helped us be successful with more satisfaction? Let's do tho
 
 ![](pics/paint2.jpg)
 
-**Feature teams** are comprised of a Product Engineer, Lead Engineer, Product Designer, Software Engineers. Whole team collaborates on Epics and Features.
+**Product Engineering Teams** are comprised of an Engineering Manager,
+  Product Manager, UX Designer, and Software Engineers. Whole team
+  collaborates on Road Map Items comprised of Features.
 
-+ **Product Engineer** responsible for building a thing customers need, producing Epics and Features
-+ **Lead Engineer** responsible for shipping and architectural supervision
-+ **Product Designer** design how customers interact with the product
-+ **Software Engineer** responsible for [design, creation, testing] quality of results
++ **Product Manager** determine what to build. Is it valuable?
++ **Engineering Manager** manage the engineers. Is it feasible?
++ **UX Designer** design how customers interact with the product. Is
+  it usable?
++ **Software Engineer** design, create, test. Is it feasible?
 
 Who provides advice, support, mentoring for your team?
 
@@ -201,6 +204,7 @@ change agents are never the agent of change :) It's a cruel truth and the sooner
 + Only show work deployed to an acceptance environment
 
 ^ (DW: Ask for acceptance by Product Engineer?
+^ (SF: Product Manager should run demo)
 
 ---
 
