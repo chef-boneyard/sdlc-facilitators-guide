@@ -42,7 +42,7 @@ Director, Learning and development - CHEF
 ## What will we learn?
 
 + Chef Engineering Values, Principles, Practices
-+ Agile and XP (just enough to be dangerous)
++ Agile, XP, DevOps (just enough to be dangerous)
 + Our SDLC (how it works, how to run it, how to test, how to intervene)
 + Team Ceremony facilitation
 + Something about Modernism, Pragmatism, and Organizational Change
@@ -77,20 +77,20 @@ Open source moving to product focus.  Use of XP, Kanban as proven good practices
 
 What practices have helped us be successful with more satisfaction? Let's do those more!
 
-- Is it good to test our code?  Let's test all the time.
-- Is it good to work with customers (aka the business)?  Let's work together daily.
-- Is it good to review code? Let's do it all the time via pairing.
-- Simple design is easier to develop, validate, and maintain, so keep it as a core principle.
-- Is feedback good?  Look for opportunities to get feedback more frequently (pairing, unit tests, CI, feature demo, early release).
-- When people work too long in a day or week, their productivity and quality goes down. So set and keep a sustainable pace.
++ Is it good to test our code?  Let's test all the time.
++ Is it good to work with customers (aka the business)?  Let's work together daily.
++ Is it good to review code? Let's do it all the time via pairing.
++ Simple design is easier to develop, validate, and maintain, so keep it as a core principle.
++ Is feedback good?  Look for opportunities to get feedback more frequently (pairing, unit tests, CI, feature demo, early release).
++ When people work too long in a day or week, their productivity and quality goes down. So set and keep a sustainable pace.
 
 ---
 
 ## Lean
-- Visualize your work and workflow
-- Minimize work in process (WIP)
-- Pull the work
-- Strive for flow
++ Visualize your work and workflow
++ Minimize work in process (WIP)
++ Pull the work
++ Strive for flow
 
 ---
 
