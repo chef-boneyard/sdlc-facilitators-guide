@@ -133,6 +133,10 @@ Who provides advice, support, mentoring for your team?
 is a product of history, not of control - This is a good thing for change agents, but keep in mind that
 change agents are never the agent of change :) It's a cruel truth and the sooner you get used to it the more helpful you will become to your colleagues and to your teams.
 
+Conways Law: "organizations which design systems ... are constrained to produce designs which are copies of the communication structures of these organizations"
+
+^ And Conway's Law is a feedback loop.  If there are issues with your org, there will be issues with the design.  If you detect issues with design, there are probably issues with org.
+ 
 ---
 
 ![](pics/paint2.jpg)
@@ -190,10 +194,10 @@ change agents are never the agent of change :) It's a cruel truth and the sooner
 + Weekly
 + 30 minutes
 + Ensure just enough work is ready for team
-+ Review items In Analysis, answer outstanding questions from team. Sort
-+ Review Ready for Analysis. Sort
++ Review items In Analysis, Product Manager answers outstanding questions from team. Sort items in this state
++ Review Ready for Analysis. Sort items in this state
 + Refine work [at the top of ] the Backlog, ensuring there is enough work in
-+ Ready for Analysis before the next Replenishment meeting
+Ready for Analysis before the next Replenishment meeting
 
 ---
 
@@ -204,7 +208,7 @@ change agents are never the agent of change :) It's a cruel truth and the sooner
 + Demonstrate features shipped that week.
 + Only show work deployed to an acceptance environment
 
-^ (DW: Ask for acceptance by Product Engineer?
+^ (DW: Ask for acceptance by Product Manager?)
 ^ (SF: Product Manager should run demo)
 
 ---
@@ -218,6 +222,7 @@ change agents are never the agent of change :) It's a cruel truth and the sooner
 	+ What went well?
 	+ What were challenges?
 	+ What [few] experiments could we try to improve our process, flow, and results?
++ Rank team health
 
 ---
 
@@ -226,7 +231,7 @@ change agents are never the agent of change :) It's a cruel truth and the sooner
 + Monthly
 + 45 minutes
 + For Engineering Leadership, Engineering Leads, Product Engineers, and Employee Experience folks
-+ Each Feature team ranks their health (Red/Yellow/Green)
++ Each Feature team ranked their health (Red/Yellow/Green)
 + Ask the Red teams to describe their issues, providing suggestions and scheduling follow-up with Leadership
 + Ask the Yellow teams to describe their issues, providing suggestions and feedback.
 
@@ -253,7 +258,7 @@ Show Henrik Kniberg "Product Ownership in a Nutshell"?*
 ## 2 product Principle
 
 ^ we are continuously delivering 2 pieces of value, customer value and kaizen improvements
-(DW: Ask the audience if they know where their work comes from)
+(DW: Ask "Do the teams know where their work comes from, and path to production?)
 
 ---
 
@@ -314,7 +319,7 @@ Show Henrik Kniberg "Product Ownership in a Nutshell"?*
 + Who accepts the feature from product team?
 
 ^ DW: Put this into your Definition of Done and/or Working Agreement
-Ask audience if they know the path to production, after they are "done"*
+
 
 ---
 
